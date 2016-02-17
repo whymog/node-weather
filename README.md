@@ -13,7 +13,7 @@ First, get an API key from [forecast.io](http://www.forecast.io). Make sure you 
 
 Replace "coordinates" with any combination of longitude/latitude coordinates. For example: 
 
-    node weather.js "45.5200,- 122.6819"    
+    node weather.js 45.5200,-122.6819    
 
 returns the weather for Portland, Oregon.  
 
